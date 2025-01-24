@@ -17,16 +17,21 @@ Make sure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Random-Pikachu/Collaborative-CLI-Text-Editor.git
+   ```
+   ```bash
    cd Collaborative-CLI-Text-Editor
    ```
+   
 
-2. Start the backend
+3. Start the backend
    ```bash
    npm run back
    ```
 
-3. Start the clients
+4. Start the clients
    ```bash
    cd client
+   ```
+   ```bash
    node index.js
    ```
